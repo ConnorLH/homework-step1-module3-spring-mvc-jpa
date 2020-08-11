@@ -1,0 +1,11 @@
+
+Y
+java:S1128"7Remove this unused import 'org.aspectj.weaver.ast.Var'.(˜Ä¥Ùùÿÿÿÿ8·©Û½.
+g
+java:S4488'"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ä¯À8ñªÛ½.
+p
+java:S4488."NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(Ùê¤Îûÿÿÿÿ8£³«Û½.
+j
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÏÊÃ×ûÿÿÿÿ8—ªÛ½.
+b
+java:S4684)"@Replace this persistent entity with a simple POJO or DTO object.(ŸØˆ•ıÿÿÿÿ8¹ÊñŞ½.

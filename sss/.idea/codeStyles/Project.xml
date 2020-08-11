@@ -1,0 +1,25 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <JavaCodeStyleSettings>
+      <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+      <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+      <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+        <value>
+          <package name="java.awt" withSubpackages="false" static="false" />
+          <package name="com.github.tomakehurst.wiremock.client" withSubpackages="true" static="true" />
+          <package name="javax.swing" withSubpackages="false" static="false" />
+        </value>
+      </option>
+      <option name="ENABLE_JAVADOC_FORMATTING" value="false" />
+    </JavaCodeStyleSettings>
+    <codeStyleSettings language="JAVA">
+      <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    </codeStyleSettings>
+    <codeStyleSettings language="JavaScript">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="TAB_SIZE" value="2" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>

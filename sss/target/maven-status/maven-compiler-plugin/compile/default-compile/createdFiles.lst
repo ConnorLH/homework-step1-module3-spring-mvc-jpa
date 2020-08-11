@@ -1,0 +1,6 @@
+cn\corner\dao\ResumeDao.class
+cn\corner\interceptor\AuthInterceptor.class
+cn\corner\pojo\Resume.class
+cn\corner\controller\ResumeController.class
+cn\corner\controller\LoginController.class
+cn\corner\service\ResumeService.class

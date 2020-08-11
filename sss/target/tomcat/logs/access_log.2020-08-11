@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [11/Aug/2020:21:34:35 +0800] "GET /resume/list HTTP/1.1" 302 - http-bio-8080-exec-2 192
+0:0:0:0:0:0:0:1 - - [11/Aug/2020:21:34:39 +0800] "GET /login/page HTTP/1.1" 200 348 http-bio-8080-exec-3 4229
+0:0:0:0:0:0:0:1 - - [11/Aug/2020:21:34:49 +0800] "POST /login/processLogin HTTP/1.1" 200 419 http-bio-8080-exec-4 146
+0:0:0:0:0:0:0:1 - - [11/Aug/2020:21:34:56 +0800] "POST /login/processLogin HTTP/1.1" 302 - http-bio-8080-exec-5 13
+0:0:0:0:0:0:0:1 - - [11/Aug/2020:21:34:57 +0800] "GET /resume/list HTTP/1.1" 200 3672 http-bio-8080-exec-6 1637
+0:0:0:0:0:0:0:1 - - [11/Aug/2020:21:35:25 +0800] "POST /resume/save HTTP/1.1" 200 7 http-bio-8080-exec-7 293
+0:0:0:0:0:0:0:1 - - [11/Aug/2020:21:35:27 +0800] "GET /resume/list HTTP/1.1" 200 4086 http-bio-8080-exec-8 31
+0:0:0:0:0:0:0:1 - - [11/Aug/2020:21:35:42 +0800] "POST /resume/save HTTP/1.1" 200 7 http-bio-8080-exec-9 77
+0:0:0:0:0:0:0:1 - - [11/Aug/2020:21:35:44 +0800] "GET /resume/list HTTP/1.1" 200 4086 http-bio-8080-exec-10 29
+0:0:0:0:0:0:0:1 - - [11/Aug/2020:21:35:53 +0800] "DELETE /resume/delete?id=3 HTTP/1.1" 200 7 http-bio-8080-exec-10 90
+0:0:0:0:0:0:0:1 - - [11/Aug/2020:21:35:55 +0800] "GET /resume/list HTTP/1.1" 200 3672 http-bio-8080-exec-10 26
